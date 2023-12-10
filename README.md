@@ -1,6 +1,6 @@
 - 👋 Hi, I am MaX Falstein
 - 👀 I am interested in lighting and sensory systems, controls, building management systems, BIM, intelligent infrastructure and IoT
 - 🧑‍💻 I am adapting Home Assistant to become Enterprise and Office Assistant optimised for enterprise and office settings limited to business and enterpise-grade components
-- 🌱 I am currently learning Thread, Matter, DALI+ and other intelligent infrastructure & IoT protocols
+- 🌱 I am currently building Thread, Matter, Casambi, Tridonic BasicDIM, DALI+ and other intelligent infrastructure & IoT protocols
 - 💞️ I am looking to collaborate on automation procedures, intelligent infrastructure protocols and other IoT technologies
 - 📫 Feel free to reach out to me [@MaXFalstein](https://twitter.com/MaXFalstein) or [@CLSLight &#8212; Commercial Lighting Systems Ltd.](https://twitter.com/CLSLight)
